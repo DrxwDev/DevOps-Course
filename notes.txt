@@ -1,3 +1,39 @@
 Temp notes for development:
 * Research markdown syntax for README
 * Plan the next feature
+
+Command
+* git fetch
+  - What's new on the remote
+  - Does not download the changes
+  - Downloads the latest commits
+  - Separate from your active work
+
+git fetch:
+* Preview
+  - What changes happened on remote
+  - Check if others have pushed new work
+  - Changes made directly on Github
+
+git fetch:
+* Safety
+  - Non-destructive operation
+  - Does not modify local or current branch
+  - Review changes before merging
+
+Command
+* git pull
+  - Combination of 2 operations
+  - git fetch followed by git merge
+  - Fetches latest changes from remote
+  - Integrate changes with local
+
+* git pull Usage:
+- Immediately update
+- Latest changes
+- Everyday sync command
+
+* git fetch
+- Inspect new changes
+- Update remote refs
+- read-only sync

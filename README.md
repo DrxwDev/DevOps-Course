@@ -8,4 +8,4 @@ This is the beginning of my project where i am exploring Git fundamentals
 - Understand staging and committing
 - Practice undoing mistakes
 
-## This project is online!!!
+## This project is online
