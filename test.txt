@@ -4,4 +4,4 @@ editing the second line from the Github.com platform
 
 this line is from the Github.com platform
 
-but this line is from the terminal with nvim
+editing the last line from the terminal with nvim
