@@ -3,3 +3,5 @@ this is the test file
 this is the first change in this file
 
 this line is from the Github.com platform
+
+but this line is from the terminal with nvim
