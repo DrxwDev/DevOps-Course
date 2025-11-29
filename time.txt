@@ -1,4 +1,4 @@
 Course: Git & Github: Stop Losing Code & Start Collaborating!
 Channel: DGR Uploads
-Episode: 4
+Episode: 6
 Time: mins
