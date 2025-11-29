@@ -1,6 +1,6 @@
 this is the test file
 
-this is the first change in this file
+editing the second line from the Github.com platform
 
 this line is from the Github.com platform
 
