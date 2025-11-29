@@ -1,0 +1,13 @@
+node_modules/
+
+.env
+
+.air.toml
+
+build/
+
+.DS_Store
+
+.vscode/
+
+*.log
